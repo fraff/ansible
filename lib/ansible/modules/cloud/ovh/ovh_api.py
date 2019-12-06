@@ -31,7 +31,7 @@ ANSIBLE_METADATA = {
 DOCUMENTATION = '''
 ---
 module: ovh_api
-version_added: 2.9.2
+version_added: 2.10
 author: Francois Lallart (@fraff)
 short_description: Minimalist wrapper around OVH api and ovh python module
 description:
